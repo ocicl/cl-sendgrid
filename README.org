@@ -4,6 +4,6 @@ Send emails with SendGrid's API
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/vindarel/cl-sendgrid.git |
-| commit  | bbbc519                                         |
+| commit  | 2340af7                                         |
 | systems | sendgrid                                        |
 |---------+-------------------------------------------------|
